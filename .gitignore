@@ -1,0 +1,6 @@
+data/*.xlsx
+data/*.csv
+results/*.docx
+
+!sample_data.xlsx
+!sample_data.csv
